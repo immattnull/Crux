@@ -1,6 +1,6 @@
 # Crux
 
-![Crux](Crux Logo.png)
+![Crux](CruxLogo.png)
 
 Crux Optimizer is a powerful, all-in-one optimization tool designed to streamline your Windows 11 experience in just three strategic steps. Whether you're a gamer, content creator, or everyday power user, Crux Optimizer ensures your system operates at peak performance by addressing key areas that impact speed, connectivity, and system stability.
 
